@@ -1,3 +1,5 @@
+#FORK [https://github.com/Scarfsail/AdvancedLogViewer](https://github.com/Scarfsail/AdvancedLogViewer)
+
 # Advanced Log Viewer
 Free Log Viewer for easy & powerful log viewing.
 
